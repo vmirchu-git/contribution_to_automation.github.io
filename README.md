@@ -53,6 +53,10 @@ Develop a metric and analytical tool to:
 - Analysis and aggregation of user dialogues.  
 - Development of custom metrics for automation evaluation.
 
+### Data Pipeline
+
+![Pipeline diagram](assets/Untitled diagram _ Mermaid Chart-2025-08-12-190155.png)
+
 
 ---
 
@@ -106,3 +110,7 @@ Develop a metric and analytical tool to:
 - ETL-пайплайны для текстовых данных.  
 - Анализ и агрегирование пользовательских диалогов.  
 - Разработка кастомных метрик оценки автоматизации.
+
+### Пайплайн
+
+![Pipeline diagram](assets/Untitled diagram _ Mermaid Chart-2025-08-12-190155.png)
