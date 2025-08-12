@@ -55,7 +55,7 @@ Develop a metric and analytical tool to:
 
 ### Data Pipeline
 
-![Pipeline diagram](assets/Untitled diagram _ Mermaid Chart-2025-08-12-190155.png)
+![Pipeline diagram](assets/Untitleddiagram_MermaidChart-2025-08-12-190155.png)
 
 
 ---
@@ -113,4 +113,4 @@ Develop a metric and analytical tool to:
 
 ### Пайплайн
 
-![Pipeline diagram](assets/Untitled diagram _ Mermaid Chart-2025-08-12-190155.png)
+![Pipeline diagram](assets/Untitleddiagram_MermaidChart-2025-08-12-190155.png)
