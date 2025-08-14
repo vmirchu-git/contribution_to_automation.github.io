@@ -41,6 +41,7 @@ Develop a metric and analytical tool to:
 - Used for ROI evaluation and prioritization of analytics initiatives.  
 - Improved transparency of reporting at team and management levels.  
 - Identified bottlenecks enabling targeted automation quality improvements.
+- Brief screenshots can be viewed in the visualization folder
 
 ### Business Impact  
 - Increased accuracy of chatbot quality assessment at intent analytics level.  
@@ -99,6 +100,7 @@ Develop a metric and analytical tool to:
 - Используется для ROI-оценки и приоритизации аналитических инициатив.  
 - Улучшена прозрачность отчетности для команды и руководства.  
 - Выявлены узкие места, что позволило повысить качество автоматизации.
+- Краткие скрины можно посмотреть в папке visualization
 
 ### Бизнес-эффект  
 - Повышена точность оценки качества чатбота на уровне интент-аналитики.  
