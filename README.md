@@ -45,7 +45,7 @@ Develop a metric and analytical tool to:
 - Reduced decision-making time on resource allocation.  
 - Established foundation for regular team performance reviews.
 
-### Key Skills Highlighted for ML/NLP Engineer  
+### Key Skills
 - Building quality metrics for ML/NLP systems.  
 - ETL pipelines for text data.  
 - Analysis and aggregation of user dialogues.  
@@ -101,8 +101,7 @@ Develop a metric and analytical tool to:
 - Сокращено время принятия решений о перераспределении ресурсов.  
 - Создана база для регулярного performance-review команды.
 
-### Ключевые навыки ML/NLP инженера  
-- Построение метрик качества ML/NLP систем.  
+### Ключевые навыки 
 - ETL-пайплайны для текстовых данных.  
 - Анализ и агрегирование пользовательских диалогов.  
 - Разработка кастомных метрик оценки автоматизации.
